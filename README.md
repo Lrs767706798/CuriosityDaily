@@ -1,1 +1,2 @@
 # CuriosityDaily
+in for CMD---
