@@ -1,3 +1,3 @@
 # CuriosityDaily
 in for CMD---
-days for even
+# vue vuex vue-router
