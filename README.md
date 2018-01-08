@@ -1,3 +1,5 @@
 # CuriosityDaily
-in for CMD---
-# vue vuex vue-router
+www.qdaily.com
+# vue
+#vuex
+#vue-router
