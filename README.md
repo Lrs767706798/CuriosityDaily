@@ -1,5 +1,5 @@
 # CuriosityDaily
 www.qdaily.com
 # vue
-#vuex
-#vue-router
+# vuex
+# vue-router
